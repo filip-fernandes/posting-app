@@ -13,7 +13,7 @@ A full-stack reddit-like app (without comments and votes) that I built to famili
 The MERN stack.
 
 ## Features
-1. A login system with token authentication.
+1. A login system with token authentication built from scratch.
 2. A posting system.
 
 ## Run locally
