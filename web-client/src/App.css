@@ -1,0 +1,7 @@
+.tweetCard { 
+  max-width: '600px';
+  width: '70%';
+  margin-top: '5px';
+  background-color: '#151a21'; 
+  color: 'white';
+}
